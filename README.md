@@ -1,3 +1,4 @@
+# Elevate-Lab-Internship-TASK-1
 **Titanic Dataset: Data Cleaning and Preprocessing for Machine Learning**
 This repository contains a Python script for cleaning, preprocessing, and preparing the classic Titanic dataset for machine learning tasks. The goal is to transform the raw data into a clean, structured format suitable for model training.
 Project Objective
